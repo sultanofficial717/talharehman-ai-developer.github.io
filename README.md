@@ -20,13 +20,5 @@ I'm also actively working on AI-driven solutions and student counseling platform
 - 🌐 Website: [talharehman-aidevloper.com](https://talharehman-aidevloper.com)
 - 📧 Email: your-email@example.com
 - 📱 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
--    Instagram: [https://www.instagram.com/iamtalha.r.s/]
+-    Instagram: (https://www.instagram.com/iamtalha.r.s/)
 - 🛠 GitHub Projects: See my pinned repos below 👇
-
----
-
-## 🔍 Keywords (For SEO)
-
-`Talha Rehman`, `AI Developer`, `Artificial Intelligence Portfolio`, `Machine Learning Engineer`, `Pakistan AI Engineer`, `Frontend Developer`, `Full Stack Projects`, `GitHub Portfolio`, `C++ Developer`, `Python Flask Developer`, `Student Tech Portfolio`, `Developer from Bahria University`, `LLM AI Chatbot Developer`, `Tech Enthusiast Islamabad`, `Web App Creator GitHub`
-
----
