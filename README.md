@@ -20,6 +20,7 @@ I'm also actively working on AI-driven solutions and student counseling platform
 - 🌐 Website: [talharehman-aidevloper.com](https://talharehman-aidevloper.com)
 - 📧 Email: your-email@example.com
 - 📱 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+-    Instagram: [https://www.instagram.com/iamtalha.r.s/]
 - 🛠 GitHub Projects: See my pinned repos below 👇
 
 ---
